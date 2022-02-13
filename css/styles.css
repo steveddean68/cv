@@ -1,0 +1,20 @@
+body {
+  background-color: #D1D1D1;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 80px;
+}
+
+h1 {
+  color: #7882A4;
+}
+
+h3 {
+  color: #C0A080;
+}
